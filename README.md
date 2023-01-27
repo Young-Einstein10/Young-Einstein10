@@ -1,7 +1,7 @@
 <p align="center">
  Hello 👋
   <h1 align="center"><a href="https://abdulyusuf.me">I'm Abdulrahman Yusuf</a></h1>
-  <p align="center"> Software Developer || ReactJS Developer || JAMStack Enthusiast</p>
+  <p align="center"> Software Developer || ReactJS Developer || VueJS Developer || JAMStack Enthusiast</p>
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@ I'm a Frontend Developer that specializes in the use of web technologies revolvi
 
 Here are a few technologies I've been working with recently:-
 
-- **Languages:** HTML, CSS, Javascript, Typescript, React, NodeJS, GraphQL.
-- **Libraries:** React, React-Redux, Emotion, Styled-components.
+- **Languages:** HTML, CSS, Javascript, Typescript, React, VueJS, NodeJS, GraphQL.
+- **Libraries:** React, React-Redux, Vuex/Pinia, Emotion, Styled-components.
 - **Databases:** PostgresSQL, MongoDB.
 - **Deployments:** Heroku, Vercel, Netlify, Firebase.
 - **Frameworks:** Express, NextJS, SCSS, LESS.
