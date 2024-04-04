@@ -13,7 +13,7 @@
 
 <br />
 
-I'm a Senior Frontend Engineer specializing in web technologies revolving around the Javascript Ecosystem. Interested in providing value to customers and clients by figuring out how I can help solve problems and challenges they're facing.
+I'm a Fullstack Software Engineer specializing in web technologies, specifically those related to the web and mobile ecosystem. I'm interested in providing value to customers and clients by figuring out how I can help solve their problems and challenges.
 
 <br />
 
@@ -26,8 +26,4 @@ Here are a few technologies I've been working with recently:-
 - **Frameworks:** Express, NextJS, SCSS, Nuxt, LESS.
 - **Tools:** Git, NPM, VSCode, WebStorm, Jira, Github Actions.
 - **Exploring:** Figma, Canva.
-
-I'm open to any new opportunities that would positively impact our world.
 <br/> 
-
-You can reach me via email at aabdulrahmanyusuf@gmail.com
